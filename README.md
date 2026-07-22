@@ -197,9 +197,9 @@ Currently building networking projects covering:
 Add your coding profiles here.
 
 - LeetCode - https://leetcode.com/u/Srisanthosh/
-- HackerRank
-- GeeksforGeeks - https://www.geeksforgeeks.org/profile/srisanthbcf2
-- CodeChef
+- HackerRank - https://www.hackerrank.com/profile/srisanthosh4711
+- GeeksforGeeks - https://www.geeksforgeeks.org/profile/srisanthb
+- CodeChef - https://www.codechef.com/users/srisanthoshb
 
 ---
 
