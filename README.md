@@ -175,9 +175,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthosh-
 
 <p align="center">
 
-<img
-src="https://raw.githubusercontent.com/srisanthosh-b/srisanthosh-b/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/srisanthosh-b/srisanthosh-b/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
