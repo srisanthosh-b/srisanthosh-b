@@ -120,43 +120,6 @@ Currently building networking projects covering:
 - Wireshark Packet Analysis
 
 
----
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=srisanthosh-b&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisanthosh-b&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=srisanthosh-b&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=srisanthosh-b&theme=tokyonight&column=7"/>
-
-</p>
 
 ---
 
@@ -171,13 +134,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthosh-
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/srisanthosh-b/srisanthosh-b/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 # 📫 Connect With Me
 
