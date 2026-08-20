@@ -122,13 +122,17 @@ Currently building networking projects covering:
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=srisanthosh-b&show_icons=true&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=srisanthosh-b&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisanthosh-b&layout=compact&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisanthosh-b&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -138,7 +142,8 @@ Currently building networking projects covering:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=srisanthosh-b&theme=tokyonight"/>
+<img
+src="https://streak-stats.demolab.com?user=srisanthosh-b&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +153,8 @@ Currently building networking projects covering:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srisanthosh-b&theme=tokyonight&column=7"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=srisanthosh-b&theme=tokyonight&column=7"/>
 
 </p>
 
@@ -158,7 +164,8 @@ Currently building networking projects covering:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthosh-b&theme=tokyo-night"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthosh-b&theme=tokyo-night"/>
 
 </p>
 
@@ -166,15 +173,13 @@ Currently building networking projects covering:
 
 # 🐍 Contribution Snake
 
-> Enable this using GitHub Actions.
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/srisanthosh-b/srisanthosh-b/output/github-contribution-grid-snake.svg"/>
+<img
+src="https://raw.githubusercontent.com/srisanthosh-b/srisanthosh-b/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"/>
 
 </p>
-
----
 
 # 📫 Connect With Me
 
