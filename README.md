@@ -122,17 +122,15 @@ Currently building networking projects covering:
 
 
 ---
-# 📈 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="./assets/contribution-graph.svg"
-    alt="GitHub Contribution Graph"
-    width="900"
+    src="https://streak-stats.demolab.com/?user=srisanthosh-b&theme=dark"
+    alt="GitHub Streak"
   />
 </p>
 
----
 ---
 
 
