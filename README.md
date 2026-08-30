@@ -125,13 +125,14 @@ Currently building networking projects covering:
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthosh-b&theme=github-compact"
-alt="GitHub Contribution Graph"/>
-
+  <img
+    src="./assets/contribution-graph.svg"
+    alt="GitHub Contribution Graph"
+    width="900"
+  />
 </p>
 
+---
 ---
 
 
@@ -156,15 +157,13 @@ alt="GitHub Contribution Graph"/>
 Add your coding profiles here.
 
 - LeetCode - https://leetcode.com/u/Srisanthosh/
-- HackerRank - https://www.hackerrank.com/profile/srisanthosh4711
 - GeeksforGeeks - https://www.geeksforgeeks.org/profile/srisanthb
-- CodeChef - https://www.codechef.com/users/srisanthoshb
 
 ---
 
 # ✨ Quote
 
-> *"The expert in anything was once a beginner."*
+> *"You get what you deserve💯."*
 
 ---
 
