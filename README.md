@@ -68,6 +68,38 @@ To build a strong career as a Network Engineer while continuously improving my p
 
 # 📂 Projects
 
+## 🌐 NetMon (Linux-Kernel based Network Monitor)
+
+Netmon is a lightweight Linux kernel module built in C for monitoring IPv4 network traffic at the Netfilter layer. It captures real-time packet and byte statistics, separates RX and TX traffic, and classifies packets by protocol including TCP, UDP, ICMP, and others. The module exposes the data to user space through a character device and ioctl interface, allowing users to start, stop, reset, and read counters without disrupting normal packet flow.
+
+### Key Features
+
+- Kernel-level packet monitoring using Netfilter hooks
+- Total packet and byte counting
+- RX/TX traffic analysis
+- Protocol-wise classification for TCP, UDP, ICMP, and other packets
+- ioctl-based communication between kernel and user space
+- Passive monitoring without modifying or dropping traffic
+  
+---
+##  🔀 Mini L2 Switch
+
+This project implements a minimal Layer-2 Ethernet switch in the Linux kernel, focusing on MAC learning, forwarding, and basic switch behavior in a virtual networking environment. It uses netfilter hooks, kernel hash tables, and procfs to learn source MAC addresses, forward known unicast traffic, flood broadcast and multicast traffic, and drop unknown unicast frames. The design serves as a practical demonstration of how Layer-2 switching and packet processing work inside the kernel.
+
+### Key Features
+
+- MAC learning from ingress traffic
+- Software-based forwarding table using kernel hashing
+- Unicast forwarding to the correct port
+- Broadcast and multicast flooding
+- Unknown unicast drop policy
+- Per-port traffic statistics tracking
+- Procfs-based visibility for MAC table and switch counters
+- Linux namespace and veth-based lab setup for testing
+- Kernel-level packet interception using netfilter hooks
+
+---
+
 ## 📚 DSA Library in C
 
 Developed a reusable Data Structures library in C by implementing fundamental data structures from scratch with modular design.
@@ -78,7 +110,7 @@ Developed a reusable Data Structures library in C by implementing fundamental da
 - Doubly Linked List
 - Stack
 - Queue
-- Hash Table
+- Hash Map
 - Hash Set
 
 ### Features
@@ -89,25 +121,6 @@ Developed a reusable Data Structures library in C by implementing fundamental da
 - Collision handling
 - Reusable APIs
 
----
-
-## ☕ Java & Data Structures
-
-A repository containing Java programs and coding interview solutions.
-
-### Topics Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Binary Search
-- Sorting
-- Dynamic Programming
-- Bit Manipulation
 
 ---
 
