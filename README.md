@@ -34,26 +34,21 @@ To build a strong career as a Network Engineer while continuously improving my p
 
 ---
 
-# 🚀 Tech Stack
+🚀 Tech Stack
 
-### Programming Languages
+Programming Languages
+[ Java ] [ C ]
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c" />
-</p>
+Tools
+[ Git ] [ GitHub ] [ VS Code ]
 
+Data & Productivity
+[ Excel ] [ Power BI ]
 
-### Tools
+Networking
+[ Linux ]
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Other Tools
-
-- MS Excel
-- Power BI
-
+[ VLAN ] [ VPN ] [ Switching ]
 ---
 
 # 📂 Projects
