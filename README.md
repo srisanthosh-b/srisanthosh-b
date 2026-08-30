@@ -34,21 +34,36 @@ To build a strong career as a Network Engineer while continuously improving my p
 
 ---
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 
-Programming Languages
-[ Java ] [ C ]
+### 💻 Programming Languages
 
-Tools
-[ Git ] [ GitHub ] [ VS Code ]
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c" />
+</p>
 
-Data & Productivity
-[ Excel ] [ Power BI ]
+### 🛠️ Tools
 
-Networking
-[ Linux ]
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-[ VLAN ] [ VPN ] [ Switching ]
+### 📊 Data & Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🌐 Networking
+
+<p>
+  <img src="https://img.shields.io/badge/VLAN-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VPN-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Switching-00A98F?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
 ---
 
 # 📂 Projects
