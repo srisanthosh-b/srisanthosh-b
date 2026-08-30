@@ -2,7 +2,7 @@
 <h3 align="center">Electrical & Electronics Engineer | Aspiring Network Engineer | Java Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Network+Engineer;Java+Developer;DSA+Enthusiast;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome...!;Aspiring+Network+Engineer;Java+Developer;DSA+Enthusiast;Always+Learning+New+Things!" />
 </p>
 
 ---
@@ -122,13 +122,13 @@ Currently building networking projects covering:
 
 
 ---
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthosh-b&theme=tokyo-night"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthosh-b&theme=github-compact"
+alt="GitHub Contribution Graph"/>
 
 </p>
 
